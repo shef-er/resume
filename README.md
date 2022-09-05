@@ -1,14 +1,15 @@
 # ЭРНЭСТ ШЕФЕР
 
 **Middle PHP-разработчик**  
-Екатеринбург | [github.com/shef-er](https://github.com/shef-er) | [shef-er@ya.ru](mailto:shef-er@ya.ru) | [+7 922-034-3929](tel:+79220343929)  
+Екатеринбург | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er](https://t.me/shef_er) | [shef-er@ya.ru](mailto:shef-er@ya.ru) | [+7 922-034-3929](tel:+79220343929)  
 От **200 000 ₽**, готов к удалённой работе
 
-PHP • Slim • Laravel • PSR • PhpUnit • Mockery • MySQL • Bash • Docker Compose • Nginx • SCRUM
+PHP • Slim • Laravel • PhpUnit • MySQL • Bash • Docker Compose • Nginx • Git • SCRUM
 
-* Английский **Upper-Intermediate** (свободно работаю с любой документацией)  
-* Пользуюсь принципами **SOLID**, **DRY**, **KISS**, **GRASP**, **паттерны GoF**  
+* Английский **Upper-Intermediate** (свободно работаю с любой документацией)
 * Свободно работаю **с чистым PHP** без фреймворков
+* Принципы: **SOLID**, **DRY**, **KISS**, **GRASP**, **паттерны GoF**, **PSR**
+* Тестирование: **PhpUnit**, **Mockery**
 
 ## Опыт
 
