@@ -8,7 +8,7 @@ PHP • Slim • Laravel • PhpUnit • MySQL • Bash • Docker Compose • N
 
 * Английский **Upper-Intermediate** (свободно работаю с любой документацией)
 * Свободно работаю **с чистым PHP** без фреймворков
-* Принципы: **SOLID**, **DRY**, **KISS**, **GRASP**, **паттерны GoF**, **PSR**
+* Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
 * Тестирование: **PhpUnit**, **Mockery**
 
 ## Опыт
