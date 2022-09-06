@@ -7,7 +7,7 @@
 
 PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 
-* Языки: **PHP**, **SQL**, **JavaScript**, **TypeScript**
+* Языки: **PHP**, **SQL**, **JavaScript**, **TypeScript**, **Shell**, **Python**
 * Базы данных: **MySQL**, **PostgreSQL**, **Sqlite**
 * Фреймворки: **Slim**, **Laravel**, **Symfony**
 * Тестирование: **PhpUnit**, **Mockery**
