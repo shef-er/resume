@@ -7,12 +7,12 @@
 
 PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 
+* Английский: **Upper-Intermediate**
 * Языки: **PHP**, **SQL**, **JavaScript**, **TypeScript**, **Shell**, **Python**
 * Базы данных: **MySQL**, **PostgreSQL**, **Sqlite**
 * Фреймворки: **Slim**, **Laravel**, **Symfony**
 * Тестирование: **PhpUnit**, **Mockery**
 * Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
-* Английский **Upper-Intermediate** (свободно работаю с любой документацией)
 * Прочее: **Linux**, **Docker Compose**, **Nginx**, **RabbitMQ**
 
 ## Опыт
