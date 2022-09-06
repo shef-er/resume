@@ -6,10 +6,13 @@
 
 PHP • Slim • Laravel • PhpUnit • MySQL • Bash • Docker Compose • Nginx • Git • SCRUM
 
-* Английский **Upper-Intermediate** (свободно работаю с любой документацией)
-* Свободно работаю **с чистым PHP** без фреймворков
-* Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
+* Языки: **PHP**, **Bash**, **SQL**
+* Базы данных: **MySQL**, **PostgreSQL**, **Sqlite**
+* Фреймворки: **Slim**, **Laravel**, **Symfony**
 * Тестирование: **PhpUnit**, **Mockery**
+* Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
+* Английский **Upper-Intermediate** (свободно работаю с любой документацией)
+* Прочее: **Linux**, **Docker Compose**, **Nginx**, **RabbitMQ**
 
 ## Опыт
 
@@ -58,7 +61,7 @@ PHP • Slim • PostgreSQL • Nginx • Docker • Bash • Git • Linux
 * Разработка и поддержка интернет-магазинов на платформе PrestaShop
 * Модернизация и разработка вспомогательных утилит на PHP и BASH
 
-PHP • MySQL • JavaScript • PrestoShop • Nginx • Apache2 • Bash • Linux
+PHP • MySQL • JavaScript • PrestaShop • Nginx • Apache2 • Bash • Linux
 
 ### Вебмотор
 
