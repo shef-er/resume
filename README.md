@@ -17,7 +17,7 @@ PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 
 ## Опыт
 
-### SpectrumData
+### [SpectrumData](https://spectrumdata.ru/)
 
 Екатеринбург  
 **PHP-разработчик** | Март 2022 - По наст. время
@@ -30,7 +30,7 @@ PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 
 PHP • Laravel • MySQL • Docker • PhpUnit • Linux • SOLID
 
-### Raketa
+### [Raketa](https://raketa.travel/)
 
 Екатеринбург  
 **PHP-разработчик** | Июль 2020 - Февраль 2022 (1 год и 8 месяцев)  
@@ -42,7 +42,7 @@ PHP • Laravel • MySQL • Docker • PhpUnit • Linux • SOLID
 
 PHP • Slim • Silex • MySQL • PhpUnit • Docker • RabbitMQ • SOAP • REST
 
-### Сварта
+### [SVARTA](https://www.svarta-company.com/)
 
 Москва, удалённо  
 **PHP-разработчик** | Ноябрь 2019 - Июнь 2020 (8 месяцев)  
@@ -51,7 +51,7 @@ PHP • Slim • Silex • MySQL • PhpUnit • Docker • RabbitMQ • SOAP �
 
 PHP • Slim • PostgreSQL • Nginx • Docker • Bash • Git • Linux
 
-### Альтопромо
+### [Альтопромо](https://alto.codes/)
 
 Екатеринбург  
 **Fullstack-разработчик** | Июль 2018 - Август 2018, Июль 2019 - Октябрь 2019 (6 месяцев)  
@@ -62,7 +62,7 @@ PHP • Slim • PostgreSQL • Nginx • Docker • Bash • Git • Linux
 
 PHP • PrestaShop • MySQL • JavaScript • Nginx • Apache2 • Bash • Linux
 
-### Сказано-Сделано
+### [Сказано-Сделано](http://sdelano.pro/)
 
 Екатеринбург  
 **Fullstack-разработчик** | Февраль 2017 - Январь 2018 (1 год)  
@@ -71,9 +71,9 @@ PHP • PrestaShop • MySQL • JavaScript • Nginx • Apache2 • Bash • L
 * Дорабатывал пользовательский и административный интерфейсы
 * Отвечал за работоспособность проекта в продакшене
 
-PHP • Laravel • MySQL • JavaScript • Bash • Lamp • Linux
+PHP • Laravel • MySQL • JavaScript • Bash • Lamp • Linux • Git
 
-### Вебмотор
+### [Вебмотор](https://webmotor.ru/)
 
 Екатеринбург  
 **Fullstack-разработчик** | Апрель 2016 - Август 2016, Июль 2017 - Сентябрь 2017 (8 месяцев)  
