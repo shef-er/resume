@@ -60,7 +60,7 @@ PHP • Slim • PostgreSQL • Nginx • Docker • Bash • Git • Linux
 * Разрабатывал новые функции и поддерживал существующие в интернет-магазинах на платформе PrestaShop
 * Модернизировал и разрабатывал вспомогательные серверные утилиты на PHP и BASH
 
-PHP • MySQL • JavaScript • PrestaShop • Nginx • Apache2 • Bash • Linux
+PHP • PrestaShop • MySQL • JavaScript • Nginx • Apache2 • Bash • Linux
 
 ### Сказано-Сделано
 
