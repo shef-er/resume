@@ -8,7 +8,7 @@
 PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 
 * Английский: **Upper-Intermediate**
-* Языки: **PHP {7.,8.}**, **SQL**, **JavaScript**, **TypeScript**, **Shell**, **Python**
+* Языки: **PHP {7.\*,8.\*}**, **SQL**, **JavaScript**, **TypeScript**, **Shell**, **Python**
 * Базы данных: **MySQL**, **PostgreSQL**, **SQLite**
 * Фреймворки: **Slim**, **Laravel**, **Symfony**
 * Тестирование: **PhpUnit**, **Mockery**
