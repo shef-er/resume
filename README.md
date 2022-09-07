@@ -2,7 +2,7 @@
 
 ### Middle PHP-разработчик, 4 года опыта
 
-Екатеринбург | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er](https://t.me/shef_er) | [shef-er@ya.ru](mailto:shef-er@ya.ru) | [+7 922-034-3929](tel:+79220343929)  
+Екатеринбург (UTC+5) | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er](https://t.me/shef_er) | [shef-er@ya.ru](mailto:shef-er@ya.ru) | [+7 922-034-3929](tel:+79220343929)  
 От **200 000 ₽**, готов к удалённой работе
 
 PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Nginx • Git • Linux • Scrum
