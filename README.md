@@ -8,8 +8,8 @@
 PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 
 * Английский: **Upper-Intermediate**
-* Языки: **PHP**, **SQL**, **JavaScript**, **TypeScript**, **Shell**, **Python**
-* Базы данных: **MySQL**, **PostgreSQL**, **Sqlite**
+* Языки: **PHP {7.*,8.*}**, **SQL**, **JavaScript**, **TypeScript**, **Shell**, **Python**
+* Базы данных: **MySQL**, **PostgreSQL**, **SQLite**
 * Фреймворки: **Slim**, **Laravel**, **Symfony**
 * Тестирование: **PhpUnit**, **Mockery**
 * Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
@@ -22,10 +22,11 @@ PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 Екатеринбург  
 **PHP-разработчик** | Март 2022 - По наст. время
 
-* Разработка на стеке Laravel 8 + Mysql, чистый PHP, PHPUnit.
-* Релиз приложений на тестовое и боевые окружения
-* Декомпозиция, оценка задач
-* Работа по методологии SCRUM, выступления на демо
+* Разрабатывал на стеке **Laravel 8** / **MySQL**, чистый PHP.
+* Отвечал за проект [Автокод Объявления](https://cars.avtocod.ru/)
+* Релизил на тестовое и боевые окружения
+* Занимался декомпозицией, оценкой задач
+* Работал в команде по SCRUM
 
 PHP • Laravel • MySQL • Docker • PhpUnit • Linux • SOLID
 
@@ -34,17 +35,19 @@ PHP • Laravel • MySQL • Docker • PhpUnit • Linux • SOLID
 Екатеринбург  
 **PHP-разработчик** | Июль 2020 - Февраль 2022 (1 год и 8 месяцев)  
 
-* Разработка API
-* Интеграции с онлайн-платформами с использованием протоколов взаимодействия JSON+REST, SOAP
+* Разрабатывал внутренний микросервис отвечавший за интеграции с отельными сервисами
+* Реализовывал интеграции с отельными платформами Booking.com, Ostrovok, Sabre, Bronevik, Amadeus, и другие c использованием протоколов SOAP, REST-like
+* Заложил с нуля основу новой версии отельного API на основе Slim Framework
+* Работал с брокером сообщений RabbitMQ
 
-PHP • Slim • Symfony • MySQL • PhpUnit • Docker • RabbitMQ • SOAP • JSON
+PHP • Slim • Silex • MySQL • PhpUnit• Docker • RabbitMQ • SOAP • JSON
 
 ### Сварта
 
 Москва, удалённо  
 **PHP-разработчик** | Ноябрь 2019 - Июнь 2020 (8 месяцев)  
 
-Разработка JSON API для системы учёта материальных и человеческих ресурсов
+Разработка JSON-based API для системы учёта материальных и человеческих ресурсов
 
 PHP • Slim • PostgreSQL • Nginx • Docker • Bash • Git • Linux
 
@@ -53,9 +56,9 @@ PHP • Slim • PostgreSQL • Nginx • Docker • Bash • Git • Linux
 Екатеринбург  
 **Fullstack-разработчик** | Июль 2018 - Август 2018, Июль 2019 - Октябрь 2019 (6 месяцев)  
 
-* Работа в команде
-* Разработка и поддержка интернет-магазинов на платформе PrestaShop
-* Модернизация и разработка вспомогательных утилит на PHP и BASH
+* Работал в команде по Канбан
+* Разрабатывал новые функции и поддерживал существующие в интернет-магазинах на платформе PrestaShop
+* Модернизировал и разрабатывал вспомогательные серверные утилиты на PHP и BASH
 
 PHP • MySQL • JavaScript • PrestaShop • Nginx • Apache2 • Bash • Linux
 
@@ -65,8 +68,8 @@ PHP • MySQL • JavaScript • PrestaShop • Nginx • Apache2 • Bash • L
 **Fullstack-разработчик** | Февраль 2017 - Январь 2018 (1 год)  
 
 * Backend-разработка на базе Laravel в составе October CMS
-* Доработка интерфейса и административной панели
-* Администрирование сайта
+* Дорабатывал пользовательский и административный интерфейсы
+* Отвечал за работоспособность проекта в продакшене
 
 PHP • Laravel • MySQL • JavaScript • Bash • Lamp • Linux
 
@@ -75,6 +78,7 @@ PHP • Laravel • MySQL • JavaScript • Bash • Lamp • Linux
 Екатеринбург  
 **Fullstack-разработчик** | Апрель 2016 - Август 2016, Июль 2017 - Сентябрь 2017 (8 месяцев)  
 
+* Работа в команде по Канбан
 Разрабатывал и поддерживал работоспособность порталов сферы услуг, застройщиков и недвижимости
 
 PHP • Zend • Symfony • MySQL • JavaScript
