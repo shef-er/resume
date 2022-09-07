@@ -40,7 +40,7 @@ PHP • Laravel • MySQL • Docker • PhpUnit • Linux • SOLID
 * Заложил с нуля основу новой версии отельного API на основе Slim Framework
 * Работал с брокером сообщений RabbitMQ
 
-PHP • Slim • Silex • MySQL • PhpUnit• Docker • RabbitMQ • SOAP • JSON
+PHP • Slim • Silex • MySQL • PhpUnit • Docker • RabbitMQ • SOAP • REST
 
 ### Сварта
 
