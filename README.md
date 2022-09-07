@@ -12,7 +12,7 @@ PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Git • SCRUM
 * Базы данных: **MySQL**, **PostgreSQL**, **SQLite**
 * Фреймворки: **Slim**, **Laravel**, **Symfony**
 * Тестирование: **PhpUnit**, **Mockery**
-* Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **PSR**
+* Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **MVC**, **PSR**
 * Прочее: **Linux**, **Docker Compose**, **Nginx**, **RabbitMQ**
 
 ## Опыт
