@@ -5,7 +5,7 @@
 Екатеринбург (UTC+5) | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er](https://t.me/shef_er) | [shef-er@ya.ru](mailto:shef-er@ya.ru) | [+7 922-034-39-29](tel:+79220343929)  
 От **200 000 ₽**, готов к удалённой работе
 
-PHP • MySQL • Slim • Laravel • PhpUnit • Docker • Nginx • Git • Linux • Scrum
+PHP • MySQL • Slim • Laravel • Docker • Git • Linux
 
 * Английский: **Upper-Intermediate**
 * Языки: **PHP {7,8}**, **SQL**, **JavaScript**, **TypeScript**, **Bash**
