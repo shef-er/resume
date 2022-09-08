@@ -51,7 +51,7 @@ PHP • Slim • Silex • MySQL • PhpUnit • Docker • RabbitMQ • SOAP �
 
 PHP • Slim • PostgreSQL • Nginx • Docker • Bash • Git • Linux
 
-### [Альтопромо](https://alto.codes/)
+### [Альтопромо](https://www.altopromo.com/)
 
 Екатеринбург  
 **Fullstack-разработчик** | Июль 2018 - Август 2018, Июль 2019 - Октябрь 2019 (6 месяцев)  
