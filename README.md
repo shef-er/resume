@@ -35,12 +35,13 @@ PHP • Laravel • MySQL • Docker • PhpUnit • Linux • SOLID
 Екатеринбург  
 **PHP-разработчик** | Июль 2020 - Февраль 2022 (1 год и 8 месяцев)  
 
+* Участвовал в разработке внутренних микросервисов на базе **Silex**, **Symfony**
 * Разрабатывал внутренний микросервис отвечавший за интеграции с отельными сервисами
-* Реализовывал интеграции с отельными платформами Booking.com, Ostrovok, Sabre, Bronevik, Amadeus, и другие c использованием протоколов SOAP, REST-like
-* Заложил с нуля основу новой версии отельного API на основе Slim Framework
-* Работал с брокером сообщений RabbitMQ
+* Реализовывал интеграции с отельными платформами **Booking.com**, **Ostrovok**, **Sabre**, **Bronevik**, **Amadeus**, и другие c использованием протоколов **SOAP**, **REST**
+* Заложил с нуля основу новой версии отельного API на основе **Slim**
+* Работал с брокером сообщений **RabbitMQ**
 
-PHP • Slim • Silex • MySQL • PhpUnit • Docker • RabbitMQ • SOAP • REST
+PHP • Slim • Silex • Symfony • MySQL • PhpUnit • Docker • RabbitMQ • SOAP • REST
 
 ### [SVARTA](https://www.svarta-company.com/)
 
