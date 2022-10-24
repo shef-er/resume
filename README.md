@@ -2,7 +2,7 @@
 
 ### Middle PHP-разработчик, 5 лет опыта
 
-Екатеринбург (UTC+5) | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er](https://t.me/shef_er) | [shef-er@ya.ru](mailto:shef-er@ya.ru) | [+7 922-034-39-29](tel:+79220343929)  
+Екатеринбург (UTC+5) | [github.com/shef-er](https://github.com/shef-er) | [t.me/shef_er](https://t.me/shef_er) | [shef-er@ya.ru](mailto:shef-er@ya.ru) | [+7 (922) 034-39-29](tel:+79220343929)  
 От **170 003 ₽**, готов к удалённой работе
 
 PHP • Laravel • Slim • MySQL • Docker • Git • Linux
@@ -22,7 +22,7 @@ PHP • Laravel • Slim • MySQL • Docker • Git • Linux
 Екатеринбург  
 **PHP-разработчик** | Март 2022 - Октябрь 2022 (8 месяцев)
 
-Сопровождал и отвечал за работоспособность сервиса [Автокод Объявления](https://cars.avtocod.ru/) на стеке: **Laravel 8** / чистый PHP + **MySQL**, **Redis**.
+Сопровождал и отвечал за работоспособность сервиса [Автокод Объявления](https://cars.avtocod.ru/) на стеке: **Laravel 8** / **чистый PHP** + **MySQL**, **Redis**.
 
 - **Собирал релизы**, **деплоил** на тестовое и боевые окружения
 - **Рефакторил** сервисы, выносил из легаси функциональность сопровождая юнит-тестами
