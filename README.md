@@ -34,7 +34,7 @@ PHP • Laravel • Slim • MySQL • Docker • Git • Linux
 - Участвовал в **Code Review**
 - Занимался **постановкой**, **декомпозицей** и **оценкой** задач
 
-PHP • Laravel • MySQL • Docker • PhpUnit • Kubernetes • Linux • SOLID
+PHP • Laravel • MySQL • Docker • PhpUnit • RoadRunner • Kubernetes • Linux • SOLID
 
 ### [Raketa](https://raketa.travel/)
 
