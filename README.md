@@ -13,7 +13,7 @@ PHP • Laravel • Slim • MySQL • Docker • Git • Linux
 - Фреймворки: **Laravel**, **Slim** 
 - Тестирование: **PhpUnit**, **Mockery**, **Hamcrest**
 - Принципы: **SOLID**, **DRY**, **KISS**, **паттерны GoF**, **MVC**, **PSR**
-- Прочее: **Linux**, **Docker**, **Nginx**, **RoadRunner**, **RabbitMQ**, **Kubernetes**
+- Прочее: **Git**, **Linux**, **Nginx**, **RoadRunner**, **RabbitMQ**, **Docker**, **Kubernetes**
 
 ## Опыт
 
